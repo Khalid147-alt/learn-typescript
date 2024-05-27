@@ -53,6 +53,10 @@ age = "unknown";//OK
 
 
 let zia: "zia";
+zia "Khan"|"Ninja"
+// zia = "Khan"//ok
+// zia = "Ninja"//ok
+zia = "politician"error Sir is our hero but out politicians are beggars /haram  khor except khan sahab //imran khan sahab!
 
 zia = "zia";
 //zia = "khan";//Error
@@ -60,7 +64,7 @@ zia = "zia";
 
 let yourName = Math.random() > 0.6 ? "Hira Khan": undefined;
 
-if (yourName) {
+if (yourName) {//if there is yourName then if condition works
     yourName.toUpperCase(); // Ok: string
 }
 
